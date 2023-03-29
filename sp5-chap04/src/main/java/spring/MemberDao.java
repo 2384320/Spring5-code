@@ -1,4 +1,4 @@
-package main;
+package spring;
 
 import java.util.Collection;
 import java.util.HashMap;
