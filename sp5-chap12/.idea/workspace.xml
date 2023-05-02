@@ -10,101 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02db2c4d-91af-4feb-9814-8435e98d62b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/sp5_chap12_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/JAX_RS_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.ws.rs-api-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/config/ControllerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/config/MemberConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/config/MvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/controller/RegisterController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/controller/RegisterRequestValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/message/label.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/ChangePasswordService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/DuplicateMemberException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/MemberDao$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/MemberDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/MemberNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/MemberRegisterService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/MemberRowMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/RegisterRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/spring/WrongIdPasswordException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/survey/AnsweredData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/survey/Question.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/survey/Respondent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/classes/survey/SurveyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/javax.ws.rs-api-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.45.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-aop-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-context-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-core-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-expression-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-jcl-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-tx-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/tomcat-jdbc-8.5.27.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/lib/tomcat-juli-8.5.27.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/spring/root-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/view/main.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/view/register/step1.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/view/register/step2.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/view/register/step3.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/view/survey/surveyForm.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/view/survey/surveySubmitted.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sp5_chap12_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/ControllerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/MemberConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/MvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/RegisterController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/RegisterRequestValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/ChangePasswordService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/DuplicateMemberException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberRegisterService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberRowMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/RegisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/WrongIdPasswordException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/survey/AnsweredData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/survey/Question.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/survey/Respondent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/survey/SurveyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/message/label.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/message/label.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/MvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/MvcConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/RegisterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/RegisterController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/RegisterRequestValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/message/label.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/message/label.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/RegisterRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/survey/AnsweredData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/survey/Question.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/survey/Respondent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/survey/SurveyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/spring/root-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/main.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/register/step1.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/register/step2.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/register/step3.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/survey/surveyForm.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/survey/surveySubmitted.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap13/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,17 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/chdms/IntelliProject/Spring5-code/sp5-chap12/src/main",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2551724"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chdms/IntelliProject/Spring5-code/sp5-chap12&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2551724&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3ae1212f3d372fe866c622c8b2ee2c20&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chdms\IntelliProject\Spring5-code\sp5-chap12\src\main" />
@@ -247,6 +155,8 @@
       <option name="presentableId" value="Default" />
       <updated>1682617381771</updated>
       <workItem from="1682617383046" duration="236000" />
+      <workItem from="1682949795004" duration="109000" />
+      <workItem from="1682950066506" duration="47000" />
     </task>
     <servers />
   </component>
